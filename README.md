@@ -13,7 +13,7 @@ My project seeks to utilize different technologies in the creation of a movie re
 ## How to Install and Run the Project
 
 1. Clone the project
-2. Use 'cd server' to navigate to the server directory
+2. Use 'cd my-blog-bacend-copy' to navigate to the server directory
 3. In the terminal run 'npm install'
 4. Once install has finished run 'npm run dev'
 5. In the terminal navigate to another server directory
